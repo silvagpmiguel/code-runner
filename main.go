@@ -1,9 +1,10 @@
 package main
 
 import (
-	"code-runner/runner"
 	"fmt"
 	"os"
+
+	"github.com/silvagpmiguel/code-runner/runner"
 )
 
 func main() {
