@@ -1,4 +1,4 @@
-# code-runner
+# Code Runner
 
 This program is used to compile code localizated in the `input/` folder to the `output/` folder.
 After that process, the program built is executed and its output will be displayed.
