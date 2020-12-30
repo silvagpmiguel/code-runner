@@ -3,6 +3,9 @@
 This program is used to compile code localizated in the `input/` folder to the `output/` folder.
 After that process, the program built is executed and its output will be displayed.
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/silvagpmiguel/code-runner)](https://goreportcard.com/report/github.com/silvagpmiguel/code-runner)
+[![GoDoc](https://godoc.org/github.com/silvagpmiguel/code-runner?status.svg)](https://godoc.org/github.com/silvagpmiguel/code-runner)
+
 ## Available Languages
 - C
 - Java
